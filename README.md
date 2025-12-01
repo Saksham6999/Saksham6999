@@ -25,8 +25,8 @@
 
 ### 📫 Contact
 
-- ✉️ Email: **your-email-here**  
-- 🌐 LinkedIn: **your-link-here**
+- ✉️ Email: **sakshamgupta3111@gmail.com**  
+- 🌐 LinkedIn: **https://www.linkedin.com/in/saksham-gupta-b7875b1b9/**
 
 ---
 
