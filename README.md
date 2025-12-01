@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Saksham Gupta
 
-<!--
-**Saksham6999/Saksham6999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Healthcare Tech | Cloud & Integration Engineer
 
-Here are some ideas to get you started:
+I work in the intersection of Healthcare (FHIR + openEHR), Microservices, and Cloud-native development. I enjoy building systems that are scalable, automated, and production-ready.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+💼 Experienced in FHIR, openEHR, and interoperability workflows
+
+⚙️ Designed & deployed automated FHIR resource transfer pipelines
+
+☸️ Hands-on with Docker, Kubernetes, Prometheus, Grafana
+
+🧩 Skilled in Java, Spring Boot, Microservices architecture
+
+📦 Built and maintained production services with secure data transfer
+
+🌱 Interested in DevOps, distributed systems, and healthcare platforms
+
+🌍 Current Focus
+
+Building scalable healthcare data exchange solutions
+
+Improving cloud-native deployments & observability
+
+Working on backend systems using Java 8+, Spring Boot & REST APIs
+
+📫 Contact
+
+✉️ Email: your-email-here
+
+🌐 LinkedIn: your-link-here
