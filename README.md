@@ -6,16 +6,16 @@
 
 ### 🚀 About Me
 
-- 💼 Experienced in **FHIR**, **openEHR**, and interoperability workflows  
-- ⚙️ Designed & deployed **automated FHIR resource transfer pipelines**  
-- ☸️ Hands-on with **Docker**, **Kubernetes**, **Prometheus**, **Grafana**  
-- 🧩 4+ years of experience in **Java, Spring Boot & Microservices architecture**  
-- 📦 Built & maintained **production-grade secure data transfer services**  
-- 🌱 Interested in **DevOps, distributed systems, and cloud-native platforms**
+- Experienced in **FHIR**, **openEHR**, and interoperability workflows  
+- Designed & deployed **automated FHIR resource transfer pipelines**  
+- Hands-on with **Docker**, **Kubernetes**, **Prometheus**, **Grafana**  
+- 4+ years of experience in **Java, Spring Boot & Microservices architecture**  
+- Built & maintained **production-grade secure data transfer services**  
+- Interested in **DevOps, distributed systems, and cloud-native platforms**
 
 ---
 
-### 🌍 Current Focus
+### Current Focus
 
 - Building scalable **healthcare data exchange solutions**  
 - Improving **cloud-native deployments & observability**  
